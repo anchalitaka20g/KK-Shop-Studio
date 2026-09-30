@@ -1,0 +1,6 @@
+{
+  "name": "KK Shop Content Studio",
+  "description": "AI Content Factory and Facebook publishing control center for Thai grocery store in Taiwan (ร้านขอนแก่น)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
